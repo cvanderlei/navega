@@ -11,7 +11,7 @@ const Menu = props => (
                     <Link to="/">Início</Link> 
                 </li>
                 <li>
-                    <Link to="/about">Sobre</Link> 
+                    <Link to="/about">Sobre 1</Link> 
                 </li>
             </ul>
         </nav>
